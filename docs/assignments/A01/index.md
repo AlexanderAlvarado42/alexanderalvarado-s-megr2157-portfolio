@@ -31,6 +31,9 @@ Professional Tone: The portfolio uses technical engineering language and describ
 
 ## Decide
 
+2) The intentional customization I made was changing the border color on all the pages to brown, it is a much more pleasant color than the green and makes the pages easier on the eyes.
+
+3) My goal for this portfolio is professional and sleek, I want my assignments to look intentional and look very presentable.
 
 ## Communicate
 
