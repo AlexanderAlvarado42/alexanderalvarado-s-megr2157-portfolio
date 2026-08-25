@@ -17,6 +17,17 @@ Evidence of Reasoning: The portfolio shows some of the reasoning behind the desi
 
 Professional Tone: The portfolio focuses on technical projects and uses engineering-related language. Some sections could use more precise wording and technical details to make the work stronger for an employer.
 
+[Frederick Wachter](https://fwachter.github.io/)
+
+The portfolio is easy for an engineering reader to navigate because projects are grouped by type and listed with dates. It gives useful information about each project, but usually does not include enough calculations or design details to fully reproduce the work. It shows some engineering reasoning through project descriptions, but focuses more on the work completed than why specific decisions were made.
+
+Navigability: The portfolio is easy for an engineering reader to navigate because projects are separated by categories and labeled with project names and dates. A specific project can be found in under 60 seconds.
+
+Reproducibility: The portfolio explains what was done for each project and includes some technical details, but most projects do not provide enough calculations, dimensions, or procedures for another engineer to fully reproduce the work.
+
+Evidence of Reasoning: The portfolio explains the engineering work performed, such as designing components, programming robots, and testing systems. However, it does not consistently explain why certain designs were chosen over other alternatives.
+
+Professional Tone: The portfolio uses technical engineering language and describes the author's responsibilities and experience. Some grammatical and spelling errors reduce the quality of the presentation for a potential employer.
 
 ## Decide
 
