@@ -1,3 +1,6 @@
+# A4 – [Parametric and FEA]
+
+
 ## Objective
 
 The objective of this assignment is to design an aluminum bar for maximum stiffness while maintaining a specified axial deflection limit. I will use parametric modeling in Fusion 360 to relate the bar's diameter, length, applied force, Young's modulus, and maximum allowable deflection. After creating the bar, I will use FEA to determine the maximum displacement and von Mises stress and compare these results to my hand calculations. Finally, I will check the stress against the aluminum yield strength to determine the factor of safety and evaluate whether the design meets the required parameters.
