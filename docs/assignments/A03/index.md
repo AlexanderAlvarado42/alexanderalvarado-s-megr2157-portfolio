@@ -1,10 +1,14 @@
-# A3 – [Topic]
+# A3 – [Parametric and FEA]
 
 ## Objective
 
 The objective of this assignment is to design an aluminum bar for maximum stiffness while maintaining a specified axial deflection limit. I will use parametric modeling in Fusion 360 to relate the bar's diameter, length, applied force, Young's modulus, and maximum allowable deflection. After creating the bar, I will use FEA to determine the maximum displacement and von Mises stress and compare these results to my hand calculations. Finally, I will check the stress against the aluminum yield strength to determine the factor of safety and evaluate whether the design meets the required parameters.
 
 ## Analyze
+
+I chose 2 inches for my cylinder diameter, using that diameter and all the other measurements I was given I calculated the length 
+
+<img width="1000" height="400" alt="IMG_1691" src="https://github.com/user-attachments/assets/1f36956d-dd79-4523-b574-f6f969255e11" />
 
 
 ## CAD - Fusion
@@ -39,8 +43,37 @@ My von Mises results show that it is about 336 psi or .336 ksi, which is under t
 
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/5783f0b0-03fa-4f6d-b4a1-1d3c89affe11" />
 
+Safety Factor = 40 ksi/ .336 ksi, which gives us a safety factor of about 119
 
 
 
-## Communicate
+## Design Reflection
+
+a)
+There was a meaningful discrepancy with my hand-calculated result compared to my simulated result. With a percent difference of 88.9%
+% Difference= (∣0.017−0.009∣/.009)*(100) = 88.9%
+	​
+
+This is a meaningful discrepancy. A likely source is the boundary conditions used in the FEA compared with the assumptions made in the hand calculation. The hand calculation assumes a uniform bar under ideal axial tension, with uniform stress and deformation along the length. For this design, I would trust the FEA result more because it models the actual geometry, fixture, and loading conditions rather than relying entirely on the ideal assumptions of the axial-deflection equation.
+
+b)The estimated peak stress at the pin hole is approximately 0.254 ksi, which is well below the aluminum yield strength of 40 ksi. Therefore, the bar would still pass the safety factor requirement even with the  hole.
+
+## Parameter change
+
+I changed the applied force to 300 lbf and diameter to .25 in. 
+I believe the length will get shorter. 
+
+After inputting the new values Fusion automatically did the calculation and supported my hypothesis that the length would get shorter.
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e9789058-3c63-4c0e-94c3-4076c0e61b9f" />
+
+
+
+## Lessons Learned
+
+I learned a lot from this assignment, particularly about creating simulations and using parametric design to develop an engineering model. I made a few mistakes along the way, including entering incorrect parameter equations and forgetting to convert the force from newtons (N) to pounds-force (lbf). These mistakes helped me better understand the importance of checking units, verifying equations, and reviewing parameter relationships before running a simulation.
+
+This assignment took me about 5 hours to complete
+
+
+
 
