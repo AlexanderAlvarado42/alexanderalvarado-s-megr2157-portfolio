@@ -1,4 +1,3 @@
-# A3 – [Parametric and FEA]
 
 ## Objective
 
@@ -73,7 +72,3 @@ After inputting the new values Fusion automatically did the calculation and supp
 I learned a lot from this assignment, particularly about creating simulations and using parametric design to develop an engineering model. I made a few mistakes along the way, including entering incorrect parameter equations and forgetting to convert the force from newtons (N) to pounds-force (lbf). These mistakes helped me better understand the importance of checking units, verifying equations, and reviewing parameter relationships before running a simulation.
 
 This assignment took me about 5 hours to complete
-
-
-
-
