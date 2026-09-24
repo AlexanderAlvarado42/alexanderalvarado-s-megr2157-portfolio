@@ -1,4 +1,4 @@
-# A5 – [Topic]
+# A5 – [Bracket Design]
 
 ## Objective
 The objective of this assignment was to design a component by analyzing stress and stiffness, and make sure the component is able to work.
@@ -18,9 +18,9 @@ The objective of this assignment was to design a component by analyzing stress a
 
 ### T-Beam Dimensions
 
-- $a = 0.498$ in
-- $b = 0.9992$ in
-- $c = 1.499$ in
+- a = 0.498 in
+- b = 0.9992 in
+- c = 1.499 in
 
 ### Assumptions
 
@@ -61,6 +61,15 @@ E
 
 <img width="3024" height="4032" alt="IMG_1790" src="https://github.com/user-attachments/assets/6b72f38a-e994-4a61-8996-a8fe4011cbb8" />
 <img width="3024" height="4032" alt="IMG_1789" src="https://github.com/user-attachments/assets/2aef1413-9fd8-409e-9c53-0d5442cd587d" />
+
+
+## 2157 Assignment
+
+<img width="3024" height="4032" alt="IMG_1791" src="https://github.com/user-attachments/assets/5ed75355-944e-496d-8c8a-d477e9fc6620" />
+
+<img width="2810" height="1660" alt="image" src="https://github.com/user-attachments/assets/fadc957b-33ae-486b-9b61-301d5692cd00" />
+
+<img width="1702" height="1550" alt="image" src="https://github.com/user-attachments/assets/15109cc9-ea52-4fe2-8513-88c14b19e67d" />
 
 
 ## Lessons Learned
