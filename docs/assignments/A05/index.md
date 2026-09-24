@@ -32,25 +32,35 @@ The objective of this assignment was to design a component by analyzing stress a
 - Reactions from each feature are carried into the next feature.
 
 ## Calculating Dimensions
+
+### Stress
+
+
+A
 <img width="2000" height="1500" alt="IMG_1784" src="https://github.com/user-attachments/assets/e3297388-ea75-4e21-b1d1-57e920c3b0f0" />
 
 
-
+B
 <img width="2000" height="1500" alt="IMG_1785" src="https://github.com/user-attachments/assets/0795d03f-a6b8-4bbf-b7a7-8c6a27d8a42d" />
 
 
-
+C
 <img width="2000" height="1500" alt="IMG_1786" src="https://github.com/user-attachments/assets/1ee5d255-c493-4964-8d73-a341e5e4fe92" />
 
 
-
+D
 <img width="2000" height="1500" alt="IMG_1787" src="https://github.com/user-attachments/assets/b5294f88-9269-48ba-a44a-bebb316e4aaa" />
 
 
-
+E
 <img width="2000" height="1500" alt="IMG_1788" src="https://github.com/user-attachments/assets/1a39a2a8-f55d-4af6-b316-e0e1c2bd3d3e" />
 
 
+
+### Stiffness
+
+<img width="3024" height="4032" alt="IMG_1790" src="https://github.com/user-attachments/assets/6b72f38a-e994-4a61-8996-a8fe4011cbb8" />
+<img width="3024" height="4032" alt="IMG_1789" src="https://github.com/user-attachments/assets/2aef1413-9fd8-409e-9c53-0d5442cd587d" />
 
 
 ## Lessons Learned
